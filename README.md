@@ -19,8 +19,12 @@ Link to video:
 #### Bill of Materials
 
 2m of 8040 Extrusion
+
 1m of 4040 Extrusion
+
 3.5m of 70x30x3 Aluminium RHS
+
 34x M5 4040 T-Nuts
+
 
 #### Nuts, Bolts and Washers
