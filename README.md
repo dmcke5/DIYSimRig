@@ -46,7 +46,7 @@ Link to video:
 
 4x M8x20 Hex Head Bolts
 
-20x M8 Nyloc Nuts
+24x M8 Nyloc Nuts
 
 36x M8 Washers
 
