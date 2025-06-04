@@ -11,12 +11,16 @@ Be cautious with the steering bar brackets. The cut file is the same for both si
 If you decide to make the flat brackets yourself by hand, you should be able to open the DXF files and print them at 1:1 scale onto paper to use as a template. You could also 3D print the .STEP files and use them as a template.
 
 Here's the wiring diagram to connect the Pedals to the FFBeast Wheel:
-
 ![Alt text](Wiring_Diagram.png "Wiring Diagram")
-
+The order of the GPIO connections doesn't matter, just map the pedals as the correct inputs in the game and you'll be set!
 
 Link to video:
 
 #### Bill of Materials
+
+2m of 8040 Extrusion
+1m of 4040 Extrusion
+3.5m of 70x30x3 Aluminium RHS
+34x M5 4040 T-Nuts
 
 #### Nuts, Bolts and Washers
