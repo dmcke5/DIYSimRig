@@ -14,6 +14,16 @@ Here's the wiring diagram to connect the Pedals to the FFBeast Wheel:
 ![Alt text](Wiring_Diagram.png "Wiring Diagram")
 The order of the GPIO connections doesn't matter, just map the pedals as the correct inputs in the game and you'll be set!
 
+If you want to build the whole set, here are the links to the other projects featured in this video!
+
+Shifter: https://github.com/dmcke5/H-Shifter
+
+Pedals: https://github.com/dmcke5/SimPedals
+
+Wheel: https://github.com/dmcke5/FFBeast-Wheel
+
+Finally, here's a link to the INA333 board I used to get the load cell working with the FFBeast wheel: https://www.aliexpress.com/item/1005007130064459.html
+
 Link to video:
 
 #### Bill of Materials
@@ -24,7 +34,19 @@ Link to video:
 
 3.5m of 70x30x3 Aluminium RHS
 
+#### Nuts, Bolts and Washers
+
 34x M5 4040 T-Nuts
 
+50x M5x16 SHCS
 
-#### Nuts, Bolts and Washers
+50x M5 Washers
+
+16x M8x40 Hex Head Bolts
+
+4x M8x20 Hex Head Bolts
+
+20x M8 Nyloc Nuts
+
+36x M8 Washers
+
