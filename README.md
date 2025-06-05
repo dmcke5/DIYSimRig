@@ -24,7 +24,7 @@ Wheel: https://github.com/dmcke5/FFBeast-Wheel
 
 Finally, here's a link to the INA333 board I used to get the load cell working with the FFBeast wheel: https://www.aliexpress.com/item/1005007130064459.html
 
-Link to video:
+Link to video: https://youtu.be/oFvz3rBkJsg
 
 #### Bill of Materials
 
